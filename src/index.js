@@ -1,2 +1,2 @@
 import main from './js/main'
-import './assets/scss/all.scss';
+import './assets/scss/main.scss';
